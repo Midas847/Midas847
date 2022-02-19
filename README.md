@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **creative projects**
 
-- 🤝 I’m looking for help with **Backend**
+- 🤝 I’m looking for help with **Open Source**
 
 - 💬 Ask me about **Anything**
 
