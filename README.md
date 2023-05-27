@@ -3,7 +3,7 @@
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 <h1 align="center">Hi 👋, I'm Saswata</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=midas847&label=Profile%20views&color=0e75b6&style=flat" alt="midas847" /> </p>
 
@@ -11,9 +11,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend Development**
+- 🔭 I’m currently working on **Backend**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NestJs**
 
 - 👯 I’m looking to collaborate on **creative projects**
 
